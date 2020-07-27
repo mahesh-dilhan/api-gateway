@@ -4,6 +4,7 @@ https://cloud.spring.io/spring-cloud-gateway/reference/html/
 
 In this repository 
 * Forwarding and rewriting
+* Resiliency4j circuit breaker
 
 Run each microservices individually and execute below endpoints
 
