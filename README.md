@@ -32,3 +32,13 @@ Hellomahesh
 
 
 ```
+
+Circuit breaker 
+```
+Maheshs-MacBook-Pro:api-gateway mahesh$ http :8082/greeting/mahesh
+HTTP/1.1 200 OK
+Content-Length: 10
+Content-Type: application/json
+
+"Fallback"
+```
